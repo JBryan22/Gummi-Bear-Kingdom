@@ -1,6 +1,6 @@
 using System;
 
-namespace Gummi_Bear_Kingdom.Models
+namespace GummiBearKingdom.Models
 {
     public class ErrorViewModel
     {

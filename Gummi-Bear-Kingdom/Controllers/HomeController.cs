@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Gummi_Bear_Kingdom.Models;
+using GummiBearKingdom.Models;
 
-namespace Gummi_Bear_Kingdom.Controllers
+namespace GummiBearKingdom.Controllers
 {
     public class HomeController : Controller
     {
